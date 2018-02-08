@@ -9,3 +9,5 @@ Dans ce site, les utilisateurs sont capables de créer des événements, et invi
 - Un événement peut avoir plusieurs utilisateurs qui y participent.
 
 Tu peux créer ton événement et y inviter tes potes ici :point_right: https://desolate-badlands-27135.herokuapp.com/
+
+Des questions ? @robin_hood sur Slack
